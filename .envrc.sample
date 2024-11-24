@@ -1,0 +1,3 @@
+export GOOGLE_APPLICATION_CREDENTIALS=/path/to/your/gcp-credentials.json
+export GCP_PROJECT_ID=your-project-id
+export GCP_REGION=asia-northeast1
